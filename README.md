@@ -25,4 +25,4 @@ Build and Run Client :
 
 
 Jmeter sampler for GRPC Testing:
-Github : https://github.com/iimnd/jmeter-grpc-sampler
+Github : https://github.com/iimnurd/grpc_testing
